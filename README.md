@@ -26,7 +26,7 @@ Required scopes of OAuth2 is `Full control of private repositories`.
 ### Install Webhook
 
 - URL path of Payload URL must be `/payload`
-- Content type must be `application.json`
+- Content type must be `application/json`
 - Required event is `Issues`
 
 ![bfe28c8](assets/bfe28c8.jpg)
